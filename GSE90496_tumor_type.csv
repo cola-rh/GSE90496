@@ -1,0 +1,92 @@
+subtype;tumor_type;color
+ETMR;Embryonal;#4372af
+MB, WNT;Embryonal;#4372af
+MB, G3;Embryonal;#4372af
+MB, G4;Embryonal;#4372af
+MB, SHH CHL AD;Embryonal;#4372af
+MB, SHH INF;Embryonal;#4372af
+ATRT, MYC;Embryonal;#4372af
+ATRT, SHH;Embryonal;#4372af
+ATRT, TYR;Embryonal;#4372af
+CNS NB, FOXR2;Embryonal;#4372af
+HGNET, BCOR;Embryonal;#4372af
+DMG, K27;Glioblastoma;#538044
+GBM, G34;Glioblastoma;#538044
+GBM, MES;Glioblastoma;#538044
+GBM, RTK I;Glioblastoma;#538044
+GBM, RTK II;Glioblastoma;#538044
+GBM, RTK III;Glioblastoma;#538044
+GBM, MID;Glioblastoma;#538044
+GBM, MYCN;Glioblastoma;#538044
+CN;Glio-neuronal;#b45c32
+DLGNT;Glio-neuronal;#b45c32
+LIPN;Glio-neuronal;#b45c32
+LGG, DIG/DIA;Glio-neuronal;#b45c32
+LGG, DNT;Glio-neuronal;#b45c32
+LGG, RGNT;Glio-neuronal;#b45c32
+RETB;Glio-neuronal;#b45c32
+ENB, A;Glio-neuronal;#b45c32
+ENB, B;Glio-neuronal;#b45c32
+PGG, nC;Glio-neuronal;#b45c32
+LGG, GG;Glio-neuronal;#b45c32
+CPH, ADM;Sella;#6aa59f
+CPH, PAP;Sella;#6aa59f
+PITAD, ACTH;Sella;#6aa59f
+PITAD, FSH LH;Sella;#6aa59f
+PITAD, PRL;Sella;#6aa59f
+PITAD, STH SPA;Sella;#6aa59f
+PITAD, TSH;Sella;#6aa59f
+PITAD, STH DNS A;Sella;#6aa59f
+PITAD, STH DNS B;Sella;#6aa59f
+PITUI;Sella;#6aa59f
+EPN, RELA;Ependymal;#c44e6e
+EPN, YAP;Ependymal;#c44e6e
+EPN, PF A;Ependymal;#c44e6e
+EPN, PF B;Ependymal;#c44e6e
+EPN, SPINE;Ependymal;#c44e6e
+EPN, MPE;Ependymal;#c44e6e
+SUBEPN, PF;Ependymal;#c44e6e
+SUBEPN, SPINE;Ependymal;#c44e6e
+SUBEPN, ST;Ependymal;#c44e6e
+CHGL;Other glioma;#6555a2
+LGG, SEGA;Other glioma;#6555a2
+LGG, PA PF;Other glioma;#6555a2
+LGG, PA MID;Other glioma;#6555a2
+ANA PA;Other glioma;#6555a2
+HGNET, MN1;Other glioma;#6555a2
+IHG;Other glioma;#6555a2
+LGG, MYB;Other glioma;#6555a2
+LGG, PA/GG ST;Other glioma;#6555a2
+PXA;Other glioma;#6555a2
+SCHW;Nerve;#edc58a
+SCHW, MEL;Nerve;#edc58a
+PTPR, A;Pineal;#b0d193
+PTPR, B;Pineal;#b0d193
+PIN T, PB B;Pineal;#b0d193
+PIN T, PB A;Pineal;#b0d193
+PIN T, PPT;Pineal;#b0d193
+CHORDM;Mesenchymal;#9e6fae
+EWS;Mesenchymal;#9e6fae
+HMB;Mesenchymal;#9e6fae
+MNG;Mesenchymal;#9e6fae
+SFT HMPC;Mesenchymal;#9e6fae
+EFT, CIC;Mesenchymal;#9e6fae
+MELAN;Melanocytic;#33496c
+MELCYT;Melanocytic;#33496c
+PLEX, AD;Plexus;#694421
+PLEX, PED A;Plexus;#694421
+PLEX, PED B;Plexus;#694421
+A IDH;Glioma IDH;#d9ba3c
+A IDH, HG;Glioma IDH;#d9ba3c
+O IDH;Glioma IDH;#d9ba3c
+LYMPHO;Haematopoietic;#5e486e
+PLASMA;Haematopoietic;#5e486e
+CONTR, ADENOPIT;Control;#8e8f93
+CONTR, WM;Control;#8e8f93
+CONTR, CEBM;Control;#8e8f93
+CONTR, HEMI;Control;#8e8f93
+CONTR, HYPTHAL;Control;#8e8f93
+CONTR, INFLAM;Control;#8e8f93
+CONTR, PINEAL;Control;#8e8f93
+CONTR, PONS;Control;#8e8f93
+CONTR, REACT;Control;#8e8f93
